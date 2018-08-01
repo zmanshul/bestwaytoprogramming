@@ -1,0 +1,12 @@
+{
+  "name": "aws.node.bestwaytoprogramming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zmanshul/bestwaytoprogramming",
+  "author": "michael@ogury.co",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "byline": "^5.0.0"
+  }
+}
